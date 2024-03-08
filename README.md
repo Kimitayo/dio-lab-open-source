@@ -144,6 +144,7 @@ Aprender o básico sobre contribuição no GitHub.
 <a href="https://github.com/elidianaandrade/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 </a>
+E eu
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
